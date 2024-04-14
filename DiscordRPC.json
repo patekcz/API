@@ -6,7 +6,6 @@
   "smallImageKey": "https://media.tenor.com/OuMB4hzY6hcAAAAi/verified.gif",
   "smallImageText": "discord.gg/qverlix",
   "buttons": [
-    { "label": "Join Discord!", "url": "https://discord.gg/u7z4nm72Af" },
-    { "label": "Test", "url": "https://google.com" }
+    { "label": "Join Discord!", "url": "https://discord.gg/u7z4nm72Af" }
   ]
 }
