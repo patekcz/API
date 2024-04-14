@@ -1,10 +1,12 @@
 {
-  "details": "Máme ženu! (Marie)",
-  "state": "Momentálně",
+  "details": "Detaily stavu",
+  "state": "Máme ženy!",
   "largeImageKey": "https://cdn.discordapp.com/icons/583018158089306130/a_00d312ddc96ff515b2ee49ed01bee9bd.gif",
   "largeImageText": "Hi! ツ",
   "smallImageKey": "https://media.tenor.com/OuMB4hzY6hcAAAAi/verified.gif",
   "smallImageText": "discord.gg/qverlix",
-  "buttonLabel": "Join Discord!",
-  "buttonUrl": "https://discord.gg/u7z4nm72Af"
+  "buttons": [
+    { "label": "Join Discord!", "url": "https://discord.gg/u7z4nm72Af" },
+    { "label": "Support Server", "url": "https://discord.gg/supportserver" }
+  ]
 }
