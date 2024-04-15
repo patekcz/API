@@ -7,5 +7,6 @@
   "smallImageText": "discord.gg/qverlix",
   "buttons": [
     { "label": "Join Discord!", "url": "https://discord.gg/u7z4nm72Af" }
-  ]
+  ],
+  "updateUrl": "https://github.com/patekcz/QverlixRPC"
 }
