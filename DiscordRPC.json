@@ -6,7 +6,8 @@
   "smallImageKey": "https://media.tenor.com/OuMB4hzY6hcAAAAi/verified.gif",
   "smallImageText": "discord.gg/qverlix",
   "buttons": [
-    { "label": "Join Discord!", "url": "https://discord.gg/u7z4nm72Af" }
+    { "label": "Join Discord!", "url": "https://discord.gg/u7z4nm72Af" },
+    { "label": "Download RPC", "url": "https://cdn.discordapp.com/attachments/841228824427626526/1229410122128818176/QverlixRPC-v1.0.2_Setup_1.0.2.zip?ex=662f9466&is=661d1f66&hm=5a4e033c62135f0efbe12f8387b999b89972084d82ca4b47e30b2d58cd3adc74&" }
   ],
   "updateUrl": "https://github.com/patekcz/QverlixRPC",
   "version": "1.0.2"
